@@ -1,7 +1,8 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=141321&height=150&section=header&text=JUNHH3&fontSize=48&fontColor=FF69B4&desc=Java%20Backend%20Developer&descSize=18&descAlignY=75&descColor=A8F0E6)
+
+![Header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=JUNHH3&fontSize=48&fontColor=FFFFFF&desc=Java%20Backend%20Developer&descSize=18&descAlignY=75&descColor=FFFFFF)
 
 <br>
 
